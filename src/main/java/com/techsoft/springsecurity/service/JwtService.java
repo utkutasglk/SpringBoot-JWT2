@@ -21,7 +21,7 @@ import static java.security.KeyRep.Type.SECRET;
 @Component
 public class JwtService {
 
-    private static final String SECRET="!@#$DFGSDFGDSFGDFGDFGSDFGKLJHLKJHLJKHLKJHLSKDFJGSLDFJKGHDSFLKJGSDSD";
+    private static final String SECRET="!@#$FDGDFGDFGDFGDFGDFGDFGDFGDFGDFGDFGDFGDFGDFGDDG";
 
     public String generateToken(String userName){
         Map<String,Object> claims = new HashMap<>();

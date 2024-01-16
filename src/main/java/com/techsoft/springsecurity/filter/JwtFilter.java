@@ -1,7 +1,6 @@
 package com.techsoft.springsecurity.filter;
 
 import com.techsoft.springsecurity.service.JwtService;
-import com.techsoft.springsecurity.service.UserInfoDetails;
 import com.techsoft.springsecurity.service.UserInfoService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
